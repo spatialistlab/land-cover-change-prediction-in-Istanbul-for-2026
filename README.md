@@ -1,8 +1,11 @@
 # Data Availability Statement
 
-Data Availability Statement of the paper named Land Cover/Use Change Prediction In Istanbul For 2023 Using Artificial Neural Networks And Logistic Regression Modelling Approaches written by Cemre Fazilet ALDOĞAN, Ugur ALGANCI, Ömer AKIN and Hande DEMİREL. All used inputs, simulation outputs and the tool used for the study are presented in corresponding sections.
+Data Availability Statement of the paper named Land Cover/Use Change Prediction In Istanbul For 2023 Using Artificial Neural Networks And Logistic Regression Modelling Approaches written by Cemre Fazilet ALDOĞAN, Ugur ALGANCI, Ömer AKIN and Hande DEMİREL. 
 
-* __Related Publications__ : AKIN, Ö., EROĞLU, A., & DEMİREL, H. (2020). Açık Kaynak Kodlu Ağ Analiz Algoritmaları ve Arazi Örtüsü/Kullanımı Simülatörü. Harita Dergisi, 163, 29-37.
+All used inputs, simulation outputs and the tool used for the study are presented in corresponding sections.
+
+Related Publications:
+* __AKIN, Ö., EROĞLU, A., & DEMİREL, H. (2020). Açık Kaynak Kodlu Ağ Analiz Algoritmaları ve Arazi Örtüsü/Kullanımı Simülatörü. Harita Dergisi, 163, 29-37.__
 
 # Contact Researchers
 
