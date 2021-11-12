@@ -1,6 +1,6 @@
 # Data Availability Statement
 
-Data Availability Statement of the paper named _Land Cover/Use Change Prediction In Istanbul For 2023 Using Artificial Neural Networks And Logistic Regression Modelling Approaches_.
+Data Availability Statement of the paper named _Land Cover/Use Change Prediction In Istanbul For 2026 Using Artificial Neural Networks And Logistic Regression Modelling Approaches_.
 
 All used inputs, simulation outputs and the tool used for the study are presented in corresponding sections.
 
