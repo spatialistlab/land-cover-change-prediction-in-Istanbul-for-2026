@@ -2,7 +2,7 @@
 
 Data Availability Statement of the paper named _Land Cover/Use Change Prediction In Istanbul For 2026 Using Artificial Neural Networks And Logistic Regression Modelling Approaches_.
 
-All used inputs, simulation outputs and the tool used for the study are presented in corresponding sections.
+All used inputs and simulation outputs are presented in corresponding sections.
 
 Related Publications:
 * __Shoman, W., Korkutan, M., Alganci, U., Tanik, A., & Demirel, H. (2019). Dynamic monitoring of land cover change: A recent study for Istanbul metropolitan area. Fresenius Environmental Bulletin, 28(2), 688-693.__
