@@ -1,0 +1,18 @@
+<PAMDataset>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>2020_orto_reclassed_4kasim</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">thematic</MDI>
+      <MDI key="STATISTICS_HISTOBINVALUES">104293|678675|249460|473420|97088|422668|</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5</MDI>
+      <MDI key="STATISTICS_MEAN">2.5175439029494</MDI>
+      <MDI key="STATISTICS_MEDIAN">2</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MODE">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1.6051634748063</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

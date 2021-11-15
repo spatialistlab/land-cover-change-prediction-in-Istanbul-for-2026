@@ -3,16 +3,16 @@
     <MDI key="PyramidResamplingType">NEAREST</MDI>
   </Metadata>
   <PAMRasterBand band="1">
-    <Description>07_5class_1_new_new</Description>
+    <Description>den103</Description>
     <Metadata>
       <MDI key="LAYER_TYPE">thematic</MDI>
-      <MDI key="STATISTICS_HISTOBINVALUES">104293|492295|184558|722767|85467|436224|</MDI>
+      <MDI key="STATISTICS_HISTOBINVALUES">104293|594121|282606|548865|82156|413563|</MDI>
       <MDI key="STATISTICS_MAXIMUM">5</MDI>
-      <MDI key="STATISTICS_MEAN">2.7412564350895</MDI>
+      <MDI key="STATISTICS_MEAN">2.5683040712709</MDI>
       <MDI key="STATISTICS_MEDIAN">3</MDI>
       <MDI key="STATISTICS_MINIMUM">0</MDI>
-      <MDI key="STATISTICS_MODE">3</MDI>
-      <MDI key="STATISTICS_STDDEV">1.5373056363</MDI>
+      <MDI key="STATISTICS_MODE">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1.5642870295135</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>

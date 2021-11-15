@@ -1,0 +1,18 @@
+<PAMDataset>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>den125</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">thematic</MDI>
+      <MDI key="STATISTICS_HISTOBINVALUES">104293|796557|301299|303699|97088|422668|</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5</MDI>
+      <MDI key="STATISTICS_MEAN">2.3755600798685</MDI>
+      <MDI key="STATISTICS_MEDIAN">2</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MODE">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1.636387553706</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
